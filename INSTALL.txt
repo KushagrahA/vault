@@ -1,0 +1,5 @@
+Vault Installation Guide
+========================
+
+Run vault.exe to launch the local vault manager.
+To remove, execute uninstall.exe.
