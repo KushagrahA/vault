@@ -11,3 +11,6 @@ Encrypted local vault and secrets manager CLI.
 - `vault init`: Create a new encrypted vault
 - `vault add <key>`: Store a credential
 - `vault get <key>`: Retrieve credential
+
+## Security Verification
+Run memory diagnostics to ensure master key is never persisted to disk.
