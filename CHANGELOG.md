@@ -7,3 +7,7 @@
 ## v0.2.0
 - Auto-clipboard wipe after 45 seconds
 - Master password strength meter
+
+## v0.3.0
+- Improved vault backup and export format
+- Corrupted vault detection
