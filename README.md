@@ -14,3 +14,5 @@ Encrypted local vault and secrets manager CLI.
 
 ## Security Verification
 Run memory diagnostics to ensure master key is never persisted to disk.
+
+<!-- Production build verified -->
